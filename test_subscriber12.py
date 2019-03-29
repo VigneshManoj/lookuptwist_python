@@ -8,9 +8,6 @@ import math
 import numpy as np
 from PyKDL import Rotation, Vector, Frame
 
-
-
-
 def vel_calc_func(start_mat, end_mat, corrected_average_interval):
 
 
